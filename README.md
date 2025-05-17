@@ -4,6 +4,7 @@
 - 🌱 I’m well versed using Microsoft Excel, Microsoft Power BI, SQL.
 - 📫 You can raech me on [Twitter](https://x.com/iamelderemma) and [LinkedIn](https://www.linkedin.com/in/adewale-emmanuel-0749131b6/)
 - ⚡ Hobbies: whenever I am not working with data, I am Singing
+- ⏮️ HNG Finalist
 
 ## SOCIALS 
 [![LinkedIn Badge](https://img.shields.io/badge/-Adewale%20Emmanuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adewale-emmanuel-0749131b6/)](https://www.linkedin.com/in/adewale-emmanuel-0749131b6/)
